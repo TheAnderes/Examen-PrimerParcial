@@ -1,0 +1,28 @@
+.gameboard {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.colorcelesteleft {
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+}
+
+.colorvioletaright {
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+}
+
+.colornaranjaleft {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+}
+
+.colorverderight {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
